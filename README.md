@@ -6,4 +6,4 @@ This project was to make a README file Generator using NODE.JS. I have it all wo
 
 ![ScreenShot of README code](README.png)
 
-![Video of README Generator]()
+![Video of README Generator](ScreenRecordingREADME.mp4)

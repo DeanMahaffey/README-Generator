@@ -2,7 +2,7 @@
 
   # Description
 
-  To help you make a README file for your app.
+  This app is to help you generate a readme file for your app.
 
   # Table of Contents
 
@@ -20,11 +20,11 @@
 
   # Installation
 
-  The following is necessary dependencies and must be installed to run the application properly: You will need Inquirer to run this app
+  The following is necessary dependencies and must be installed to run the application properly: inquirer
 
   # Usage 
 
-  This application is used for To generater a README file
+  This application is used for to make a readme file
 
   # License 
 
@@ -32,11 +32,11 @@
 
   # Contribution
 
-  Contributors: DeanMahaffey
+  Contributors: deanmahaffey
 
   # Instructions
 
-  To run this App, you need to follow these instructions: you will need to have node, npm, and inquirer installed to run this app.
+  To run this App, you need to follow these instructions: to have node, npm, and inquirer
 
   # Questions
 
